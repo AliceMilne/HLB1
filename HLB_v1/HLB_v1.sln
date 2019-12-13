@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HLB_v1", "HLB_v1\HLB_v1.vcxproj", "{5E7BB051-3663-4C52-AD38-D05846DB115A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FFBB473A-2D5E-4568-BB2B-11F0ADA15DCA}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E7BB051-3663-4C52-AD38-D05846DB115A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E7BB051-3663-4C52-AD38-D05846DB115A}.Debug|Win32.Build.0 = Debug|Win32
+		{5E7BB051-3663-4C52-AD38-D05846DB115A}.Release|Win32.ActiveCfg = Release|Win32
+		{5E7BB051-3663-4C52-AD38-D05846DB115A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D772BD0-E370-403C-95F8-302444D2F1F7}
+	EndGlobalSection
+EndGlobal
